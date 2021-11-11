@@ -1,0 +1,13 @@
+Total sales of the store of all 3 months is 4583270
+Total sales of the store of Jan months is 1421330
+Total sales of the store of Feb months is 1422350
+Total sales of the store of Mar months is 1739590
+Most Popular Item of Jan is Hot Chocolate Fudge having total sold qauntity 2673 
+Most Popular Item of Feb is Hot Chocolate Fudge having total sold qauntity 2636
+Most Popular Item of March is Hot Chocolate Fudge having total sold qauntity 3100
+Most Reveune generated Item of Jan is Hot Chocolate Fudge having total of rupees 320760
+Most Reveune generated Item of Feb is Hot Chocolate Fudge having total of rupees 316320
+Most Reveune generated Item of Mar is Hot Chocolate Fudge having total of rupees 372000
+The popular item of jan is Hot Chocolate Fudge having minimum order of 1, maximum order of 5 and average order of  3.0306122448979593
+The popular item of feb is Hot Chocolate Fudge having minimum order of 1, maximum order of 5 and average order of  3.0975323149236194
+The popular item of march is Hot Chocolate Fudge having minimum order of 1, maximum order of 5 and average order of  2.9551954242135365
